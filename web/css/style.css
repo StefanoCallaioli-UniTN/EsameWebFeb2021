@@ -1,0 +1,27 @@
+table, th, td {
+    border: 1px solid black;
+}
+
+table {
+    border: 5px solid black;  
+}
+
+input[type=text] {
+    width: 20px;
+    height: 20px;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+}
+
+.region1 {
+    background-color: mistyrose;
+}
+
+.region2 {
+    background-color: aliceblue;
+}
+
+input[type=text].fixed {
+    color: red
+}

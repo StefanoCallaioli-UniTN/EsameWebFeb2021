@@ -1,0 +1,20 @@
+Sun Feb 20 12:34:30 CET 2022 : Server di rete Apache Derby: 10.14.2.0 - (1828579) avviato e pronto ad accettare connessioni sulla porta 1527
+----------------------------------------------------------------
+Sun Feb 20 12:34:57 CET 2022:
+Avvio della versione di Derby The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): istanza a816c00e-017f-16e9-6c64-00004749c261
+sulla directory di database C:\Users\stefa\OneDrive\Documents\NetBeansProjects\EsameWebFeb2021\ExamDerbyDB con caricatore classi sun.misc.Launcher$AppClassLoader@266474c2 
+Caricato da file:/C:/Users/stefa/Downloads/db-derby-10.14.2.0-bin/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_161-b12
+user.dir=C:\Users\stefa\Downloads\db-derby-10.14.2.0-bin\db-derby-10.14.2.0-bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\stefa\OneDrive\Documents\NetBeansProjects\EsameWebFeb2021
+Programma di caricamento classe database avviato - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Feb 20 12:37:31 CET 2022: arresto in corso del motore di Derby
+----------------------------------------------------------------
+Sun Feb 20 12:37:31 CET 2022:
+Arresto dell'istanza a816c00e-017f-16e9-6c64-00004749c261 nella directory del database C:\Users\stefa\OneDrive\Documents\NetBeansProjects\EsameWebFeb2021\ExamDerbyDB con il caricatore di classi sun.misc.Launcher$AppClassLoader@266474c2 
+----------------------------------------------------------------
